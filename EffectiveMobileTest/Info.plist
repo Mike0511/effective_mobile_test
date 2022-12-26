@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>MARKPRO.OTF</string>
+		<string>MARKPRO-BLACK.OTF</string>
+		<string>MARKPRO-BLACKITALIC.OTF</string>
+		<string>MARKPRO-BOLD.OTF</string>
+		<string>MARKPRO-BOLDITALIC.OTF</string>
+		<string>MARKPRO-BOOK.OTF</string>
+		<string>MARKPRO-BOOKITALIC.OTF</string>
+		<string>MARKPRO-EXTRALIGHT.OTF</string>
+		<string>MARKPRO-EXTRALIGHTITALIC.OTF</string>
+		<string>MARKPRO-HAIRLINE.OTF</string>
+		<string>MARKPRO-HAIRLINEITALIC.OTF</string>
+		<string>MARKPRO-HEAVY.OTF</string>
+		<string>MARKPRO-HEAVYITALIC.OTF</string>
+		<string>MARKPRO-ITALIC.OTF</string>
+		<string>MARKPRO-LIGHT.OTF</string>
+		<string>MARKPRO-LIGHTITALIC.OTF</string>
+		<string>MARKPRO-MEDIUM.OTF</string>
+		<string>MARKPRO-MEDIUMITALIC.OTF</string>
+		<string>MARKPRO-THIN.OTF</string>
+		<string>MARKPRO-THINITALIC.OTF</string>
+	</array>
+</dict>
+</plist>
